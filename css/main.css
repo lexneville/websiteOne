@@ -1,0 +1,25 @@
+body {
+    font-size: 5vh;
+}
+
+p {
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+#headingOne {
+    color: cadetblue;
+}
+
+#headingTwo {
+    color: black;
+}
+
+#ling {
+    color:white;
+}
